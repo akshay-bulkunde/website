@@ -1,0 +1,12 @@
+Exercise 1.1.1
+1.git [-v | --version]
+
+Exercise 1.2.1
+1..git  #name of the hidden directory used by the Git repository.
+2. #content of config
+    [core]
+        repositoryformatversion = 0
+        filemode = true
+        bare = false
+        logallrefupdates = true
+
